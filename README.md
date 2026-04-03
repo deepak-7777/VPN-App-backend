@@ -90,7 +90,6 @@ com.securevpn.backend
 **Flow:**
 
 1. Identify session via:
-
    * sessionToken OR
    * sessionId OR
    * deviceId
