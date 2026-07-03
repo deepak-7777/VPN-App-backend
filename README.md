@@ -11,7 +11,7 @@ This backend acts as the core control layer between the Android VPN app and Wire
 * 🌐 VPN server management (multi-location support)
 * 🔐 Secure session lifecycle handling
 * ⚡ Fast connect / disconnect APIs
-* 📡 Dynamic WireGuard configuration generation
+* 📡 Dynamic WireGuard configuration generation 
 * 🧠 Smart server validation (online/offline status)
 * 🔄 Automatic session cleanup
 * 🧾 Stateless API design
